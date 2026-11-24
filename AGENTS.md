@@ -1,6 +1,6 @@
-## State of Omarchy - survey project
+## State of SigmaOS - survey project
 
-This is a web application for a yearly survey on [Omarchy Linux](https://oomarchy.org). Users can participate in the survey to provide feedback on the project.
+This is a web application for a yearly survey on [SigmaOS Linux](https://sigmaos.org). Users can participate in the survey to provide feedback on the project.
 
 ## Project Configuration
 
