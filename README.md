@@ -1,10 +1,10 @@
 # fk-state-of-omarchy
 
-> Forked from omacom/state-of-omarchy (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/state-of-omarchy (MIT). See `SIGMAOS_FORK.md`.
 <img src="./src/lib/assets/soo-logo.png" width="300">
 </div>
 
-Yearly survey for Omarchy Linux.
+Yearly survey for SigmaOS Linux.
 
 - [x] Waitlist feature before launch.
 - [x] Passwordless auth (email link or code) -> one response per account.
