@@ -1,6 +1,6 @@
 [component]
-name = "state-of-omarchy"
-id = "sigmaos-state-of-omarchy"
+name = "sigmaos-survey"
+id = "sigmaos-survey"
 kind = "component"
 license = "GPL-3.0-or-later"
 
