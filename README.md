@@ -1,6 +1,6 @@
-# fk-state-of-omarchy
+# SigmaOS-survey
 
-> Forked from SigmaOS/state-of-omarchy (MIT). See `SIGMAOS_FORK.md`.
+> Forked from SigmaOS/sigmaos-survey (MIT). See `SIGMAOS_FORK.md`.
 <img src="./src/lib/assets/soo-logo.png" width="300">
 </div>
 
