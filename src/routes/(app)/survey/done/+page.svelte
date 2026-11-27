@@ -29,12 +29,12 @@
 
 	const cta = [
 		{
-			href: 'https://donate.omarchy.org',
+			href: 'https://donate.sigmaos.org',
 			icon: RiHeartLine,
 			title: 'Become a Patron of Omarchy'
 		},
 		{
-			href: 'https://supply.37signals.com/collections/omarchy',
+			href: 'https://sigmaos.org/merch',
 			icon: RiTShirtLine,
 			title: 'Get Omarchy Merch'
 		}

@@ -27,7 +27,7 @@
 	{#if tagline}
 		<h2 class="mt-2 text-center font-mono text-muted-foreground">
 			The yearly survey about
-			<a href="https://omarchy.org/" target="_blank" rel="noopener">Omarchy Linux</a>
+			<a href="https://sigmaos.org/" target="_blank" rel="noopener">SigmaOS Linux</a>
 		</h2>
 	{/if}
 </div>
